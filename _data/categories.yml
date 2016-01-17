@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: ctf
+  name: CTF
 
-- slug: tools
-  name: Tools
+- slug: scripts
+  name: Scripts
 
-- slug: productivity
-  name: Productivity
+- slug: projects
+  name: Projects

@@ -1,12 +1,11 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+# subtitle: 
 permalink: /about/
 ---
+Hey there, welcome to my repository of projects, code snippits, write-ups and thoughts about the computer security world.  
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/scottierotten).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Thanks for reading!

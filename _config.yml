@@ -1,18 +1,14 @@
 # Site settings
-title: Daktilo
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: ScottyRotten
+description: My journey in the world of security. A repository for projects, code snippits and thoughts
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://scottyrotten.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
+  fullname: Scott
+  github: scottyrotten
+  twitter: scottierotten
   # disqus: your_disqus_username
 
 # google_analytics: 'UA-XXXXXXXX-X'
